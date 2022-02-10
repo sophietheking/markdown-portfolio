@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* My dog Gyoza
+* Chinese takeout
+* Reality TV
+* True crime
